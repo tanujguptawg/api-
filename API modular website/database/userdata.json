@@ -1,0 +1,62 @@
+{
+    "user_details": [
+        {
+            "username": "tanuj",
+            "password": "71d389f27e12bade194212b1671306dda5d353ab478a98c772b369b2373027b94425fca4898b210495a7cf8227572f507920ce3c622e1b5e780a91294fbdc6b0",
+            "role": "admin",
+            "blocked": [
+                "www.amazon.com",
+                "www.google.com",
+                "www.flipkart.com"
+            ]
+        },
+        {
+            "username": "gagan",
+            "password": "b2920f9b6e25bd8b1507076a8a1c1be423cdde65d5419a8ffa71c023f5e50be095748ba33931eb49d1e77e734b14db1e1f8435623ea3b124c0f1cac3a2739ffa",
+            "role": "user",
+            "blocked": []
+        },
+        {
+            "username": "user2",
+            "password": "a55a0bf44f517ed00a31bc42d6abe4ba8a59868fe53b745fe530bb1251cc2112b2b9e6dc3cb6221e47829d29d29a039daa4e13ad47ed213fcf0fa42f57d31018",
+            "role": "user",
+            "blocked": [
+                "was"
+            ]
+        },
+        {
+            "username": "user3",
+            "password": "453fea700e91f7eded8e4824b640c8c08ce11b25ae3e4f58eba851674d7907732328d5271d87af0c54337f2e2b6797ab6b21c1fc27db50e659338cbf9d8a34ef",
+            "role": "user",
+            "blocked": [
+                "asdasda"
+            ]
+        },
+        {
+            "username": "user4",
+            "password": "5c693a0b450015e7320a1da0f43edc5a069ce5112cfb7f455e532877f8b45a6ea47e3d5b9c46dd8432ad0323f5a12f868b691cdd29ef5f9c0ff9d94cd2d2451b",
+            "role": "user",
+            "blocked": []
+        },
+        {
+            "username": "gagandeep",
+            "password": "1c9a9f47c1ed82ad65823e39fb0e4cb96df17f40ff6b0441beb2e5637214afd7f5f5a1b080fce69266d66c4967730fff2ba013e2377a4288a935bac88b621350",
+            "role": "user",
+            "blocked": [
+                "hj.n"
+            ]
+        },
+        {
+            "username": "new1",
+            "password": "fe8ef9b33a20fd81cbf670f4fd8852dce0f2ba6afd850d9f79be6d267deea438357204165f6c7cd4d841031ca168ea927021525c4bf22335aa57275b17305581",
+            "role": "user",
+            "blocked": []
+        },
+        {
+            "username": "tanujaa",
+            "password": "ec9aa41e7e3fc83e334f46b27c5c1cc406108102bc40cbc5c160954aebe992387d117b6b97d93b8b2d2c425f5475a1818dcc1dab004560194dceae439b54ed41",
+            "role": "user",
+            "blocked": []
+        }
+    ]
+}

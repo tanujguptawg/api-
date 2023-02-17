@@ -1,0 +1,11 @@
+{
+    "LOGIN_ATTEMPTS" : 3,
+    "USER_TYPES": ["admin","user"],
+    "PASSWORD_LENGTH" : 8,
+    "SALT" : "tata_salt_100_percent_pure",
+    "USER_DATA_FILE" : "userdata.json",
+    "REQUEST_DATA_FILE" : "requests.json",
+    "ADMIN_MENU_LIST" : [1,2,3,4,5,6,7,8,9,10],
+    "USER_MENU_LIST" : [1,2,3,4,5],
+    "HOME_MENU_LIST": [1,2,3]
+}
